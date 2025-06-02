@@ -1,4 +1,4 @@
- This is a new React Native project, bootstrapped using @react-native-community/cli.
+This is a new React Native project, bootstrapped using [@react-native-community/cli](https://github.com/react-native-community/cli).
  
  # hahai-project
 
