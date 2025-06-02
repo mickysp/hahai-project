@@ -56,7 +56,7 @@ yarn ios
 ## Step 3: Modify your app
 Your app is now running — let’s make some changes!
 
-Open the App.tsx file in your favorite code editor and update some text or layout. When you save the file, the app will update automatically on your device or simulator. This feature is called Fast Refresh — it lets you see changes instantly without restarting the app.
+Open the `App.tsx` file in your favorite code editor and update some text or layout. When you save the file, the app will update automatically on your device or simulator. This feature is called Fast Refresh — it lets you see changes instantly without restarting the app.
 
 Need to reload the whole app (for example, to reset the state)? Here’s how:
 
