@@ -2,7 +2,7 @@
  
  # hahai-project
 
-Note: Make sure you have completed the Set Up Your Environment guide before proceeding.
+⚠️ Note: Make sure you have completed the Set Up Your Environment guide before proceeding.
 
 # Step 1: Start Metro
 First, you will need to run Metro, the JavaScript build tool for React Native.
